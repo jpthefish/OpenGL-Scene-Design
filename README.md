@@ -15,14 +15,14 @@ To do this, I selected each object from the 2D image and made decisions on the r
 
 ## II. 3D Scene Navigation
 The user may navigate the virtual scene with the following keyboard commands:
-W – zoom in
-S – zoom out
-A – pan left	
-S – pan right
-Q – pan up	
-E – pan down
-O – orthographic view	
-P – perspective view
+- W – zoom in
+- S – zoom out
+- A – pan left	
+- S – pan right
+- Q – pan up	
+- E – pan down
+- O – orthographic view	
+- P – perspective view
 
 Additionally, the user may use the mouse to pan around the scene and the scroll wheel to change the speed at which the camera travels across the scene.
 
