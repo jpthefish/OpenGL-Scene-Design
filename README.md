@@ -18,7 +18,7 @@ The user may navigate the virtual scene with the following keyboard commands:
 - W – zoom in
 - S – zoom out
 - A – pan left	
-- S – pan right
+- D – pan right
 - Q – pan up	
 - E – pan down
 - O – orthographic view	
