@@ -9,7 +9,7 @@ In designing the 3D scene, I aimed to replicate the selected 2D image (Figure 1)
 ![Screenshot 2024-06-23 at 2 04 06 AM](https://github.com/jpthefish/OpenGL-Scene-Design/assets/89939389/7034db62-32e3-4665-925c-706fbe9f0413)
 
 #### Figure 2. 3D Scene Replication
-![Screenshot 2024-06-23 at 2 06 42 AM](https://github.com/jpthefish/OpenGL-Scene-Design/assets/89939389/a7e071a9-eb30-4f50-a847-8448cf6d772b)
+![Screenshot 2024-06-23 at 1 54 09 AM](https://github.com/jpthefish/OpenGL-Scene-Design/assets/89939389/a1b3b9f5-c3c5-4c19-82e2-8fa2e7bfb170)
 
 To do this, I selected each object from the 2D image and made decisions on the replication and rendering of each object, including the composition of the shape(s) involved, sourcing of similar textures, accurate lighting and reflectivity of each object, and their positions relative to each other. Moreover, each object's rendering and the functionality for texturing, lighting, and camera movements (discussed in Section II) are well modularized, as detailed in Section III. This allows the user to navigate the 3D environment comfortably and with realistic photo approximation.
 
