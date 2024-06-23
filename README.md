@@ -3,7 +3,7 @@
 This project is an exploration into the creative design and technical execution steps for rendering a 3D graphics representation of real-world objects.
 
 ## I. Development Choices
-In designing the 3D scene, I aimed to replicate the selected 2D image (Figure 1) into an interactive computer graphics interface (illustrated in Figure 2), keeping relevant constraints in mind such as time to deliverable, project complexity, and system performance.
+In designing the 3D scene, I aimed to replicate the selected 2D image (as shown in Figure 1) into an interactive computer graphics interface (illustrated in Figure 2), keeping relevant constraints in mind such as time to deliverable, project complexity, and system performance.
 
 #### Figure 1. 2D Image to be Replicated
 ![Screenshot 2024-06-23 at 2 04 06 AM](https://github.com/jpthefish/OpenGL-Scene-Design/assets/89939389/7034db62-32e3-4665-925c-706fbe9f0413)
